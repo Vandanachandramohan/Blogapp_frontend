@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.background {
+  width: 100%;
+  height: 50vh;
+  background-size: contain;
+  position: static;
+}
+
+.container {
+  background-color: #ffdbdb;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  background-color: white;
+  margin: 20px;
+  align-content: space-between;
+  justify-content: center;
+}
